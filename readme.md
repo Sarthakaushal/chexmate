@@ -14,11 +14,11 @@ The different stages of experiments that are performed are:
     - Invariant Feature Extraction
     - Meta Learning
 
-Dataset used:
+## Dataset used:
 - GLobal Dataset - (Kaggle) tawsifurrahman/tuberculosis-tb-chest-xray-dataset
 - Indian Dataset - Private dataset (To be released soon)
 
-Model training Methodology:
+## Model training Methodology:
 - Train on Global Dataset and validate on Indian Dataset
 
 ```bash
